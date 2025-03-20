@@ -26,15 +26,15 @@ This project delves into the analysis of employee attrition using a comprehensiv
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Project Objectives
 -----------------------
-# Identify key factors influencing employee attrition.
-# Analyze the correlation between various attributes (e.g., age, job role, income) and attrition rates.
-# Provide actionable insights to reduce employee turnover.
-# Develop data visualizations for clear and effective communication of findings.
+ Identify key factors influencing employee attrition.
+ Analyze the correlation between various attributes (e.g., age, job role, income) and attrition rates.
+ Provide actionable insights to reduce employee turnover.
+ Develop data visualizations for clear and effective communication of findings.
 
 2. Dataset Overview
 ----------------------
-# Source: From Kaggle (https://www.kaggle.com/datasets/soylevbeytullah/ds4work-human-resources)
-# Description: The dataset contains 1470 rows and 35 columns, including various employee attributes such as age, attrition status, department, job role, salary, and years at the company.
+ Source: From Kaggle (https://www.kaggle.com/datasets/soylevbeytullah/ds4work-human-resources)
+ Description: The dataset contains 1470 rows and 35 columns, including various employee attributes such as age, attrition status, department, job role, salary, and years at the company.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Project Timeline & Milestones
 | Phase        | Key Activities | Duration |
