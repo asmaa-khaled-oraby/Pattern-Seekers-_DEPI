@@ -11,17 +11,8 @@ This project delves into the analysis of employee attrition using a comprehensiv
 
 1) Project Objectives
 2) Dataset Overview
-3) Technologies & Tools
-4) Methodology
-5) Key Performance Indicators (KPIs)
-6) Project Timeline & Milestones
-7) Deliverables
-8) Roles & Responsibilities
-9) Setup & Execution Guide
-10) Future Enhancements
-11) Contact Information
-12) Contributions & Support
-13) Copyright & Licensing
+3) Project Timeline & Milestones
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Project Objectives
