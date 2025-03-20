@@ -33,8 +33,8 @@ This project delves into the analysis of employee attrition using a comprehensiv
 
 2. Dataset Overview
 ----------------------
- Source: From Kaggle (https://www.kaggle.com/datasets/soylevbeytullah/ds4work-human-resources)
- Description: The dataset contains 1470 rows and 35 columns, including various employee attributes such as age, attrition status, department, job role, salary, and years at the company.
+Source: The dataset used for this analysis is sourced from a human resources database.
+ Description:The dataset contains 1470 rows and 35 columns, including various employee attributes such as age, attrition status, department, job role, salary, and years at the company.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Project Timeline & Milestones
 | Phase        | Key Activities | Duration |
