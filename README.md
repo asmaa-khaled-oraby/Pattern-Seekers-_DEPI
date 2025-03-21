@@ -124,7 +124,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
 
 **📩 Contact Information**
 
-📧 Email: asmaaoraby544@gmail.com (Virtual)
+📧 Email: asmaaoraby544@gmail.com 
 
 🔗 LinkedIn: www.linkedin.com/in/asmaa-khaled-orabi
 
