@@ -64,7 +64,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🔬 Methodology**
 
-**1. Data Handling **
+****1. Data Handling ****
 
 * Collected and cleaned "Human_Resources(1).csv" and "Human_Resources(2).csv".
 * Ensured data consistency (e.g., in `Attrition`, `Department`).
@@ -74,7 +74,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
 * Visualized factors related to employee attrition (e.g., age, job role).
 * Created Power BI dashboards.
 
-**3. Attrition Prediction **
+****3. Attrition Prediction ****
 
 * Built models to predict which employees might leave.
 * Suggested ways to improve employee retention.
