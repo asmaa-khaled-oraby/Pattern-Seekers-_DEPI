@@ -22,7 +22,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
  * Contributions & Support
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🏆 Project Objectives**
 -----------------------
 * Identify key factors influencing employee attrition.
@@ -33,7 +33,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
  
 * Develop data visualizations for clear and effective communication of findings.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 **📁 Dataset Overview**
 ----------------------
@@ -43,6 +43,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
  
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠 **Technologies & Tools**
+----------------------------
 
 |Functionality     |Tools      |
 |------------------|-----------|
@@ -53,6 +54,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🔬 Methodology**
+-------------------
 
 1. Data Handling 
 
@@ -71,6 +73,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **📊 Key Performance Indicators (KPIs)**
+-----------------------------------------
 
 * Number of key factors identified that cause employees to leave.
 * How well the Power BI dashboards show attrition trends.
@@ -81,6 +84,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **## 📅 Project Timeline & Milestones**
+---------------------------------------
 
 | Phase        | Key Activities | Duration |
 |-------------|----------------|----------|
@@ -91,6 +95,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  **🚀 Deliverables**
+ ---------------------
 
 * Cleaned & Consistent Datasets
 * Statistical Analysis Report (Power BI)
@@ -101,6 +106,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **👥 Roles & Responsibilities**
+---------------------------------
 
 |Team Member       |Role                             |Responsibilities                 |
 |------------------|---------------------------------|---------------------------------|
@@ -111,6 +117,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🔮 Future Enhancements**
+----------------------------
 
 * Enhance Attrition Prediction: Use more advanced algorithms and external data for better accuracy.
 * Expand Data Analysis: Analyze employee segments, feedback sentiment, and HR policy impact.
@@ -123,6 +130,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **📩 Contact Information**
+--------------------------------
 
 📧 Email: asmaaoraby544@gmail.com 
 
@@ -130,6 +138,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **⭐ Contributions & Support**
+---------------------------------
 
 If you find this project valuable, give it a ⭐ and contribute via pull requests! 
 
