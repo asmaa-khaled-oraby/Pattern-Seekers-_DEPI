@@ -23,7 +23,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**1. Project Objectives**
+** Project Objectives**
 -----------------------
 * Identify key factors influencing employee attrition.
  
@@ -34,14 +34,14 @@ This project delves into the analysis of employee attrition using a comprehensiv
 * Develop data visualizations for clear and effective communication of findings.
  
 
-**2. Dataset Overview**
+** Dataset Overview**
 ----------------------
 * Source: From Kaggle (https://www.kaggle.com/datasets/soylevbeytullah/ds4work-human-resources)
 
 * Description:The dataset contains 1470 rows and 35 columns, including various employee attributes such as age, attrition status, department, job role, salary, and years at the company.
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🛠 **3.Technologies & Tools**
+🛠 **Technologies & Tools**
 
 |Functionality     |Tools      |
 |------------------|-----------|
@@ -52,7 +52,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**## 📅 4.Project Timeline & Milestones**
+**## 📅 Project Timeline & Milestones**
 
 | Phase        | Key Activities | Duration |
 |-------------|----------------|----------|
@@ -60,5 +60,26 @@ This project delves into the analysis of employee attrition using a comprehensiv
 | **Phase 2** | BI Dashboard Development | [2-3 week] |
 | **Phase 3** | Advanced Analytics & Machine Learning | [4-5 week] |
 | **Phase 4** | Automation & Self-Service BI Implementation | [6 week] |
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**🔬 Methodology**
+
+**1. Data Handling **
+
+* Collected and cleaned "Human_Resources(1).csv" and "Human_Resources(2).csv".
+* Ensured data consistency (e.g., in `Attrition`, `Department`).
+
+**2. Attrition Analysis **
+
+* Visualized factors related to employee attrition (e.g., age, job role).
+* Created Power BI dashboards.
+
+**3. Attrition Prediction **
+
+* Built models to predict which employees might leave.
+* Suggested ways to improve employee retention.
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
