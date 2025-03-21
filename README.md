@@ -1,12 +1,12 @@
-📊 Project Title: Employee Attrition Analysis
+**📊 Project Title: Employee Attrition Analysis**
 
-🔍 Executive Summary
+**🔍 Executive Summary**
 -----------------------
 
-        This project delves into the analysis of employee attrition using a comprehensive HR dataset. The primary objective is to identify key factors influencing employee attrition and provide actionable insights to mitigate it. The analysis includes statistical evaluations and data visualizations to understand the impact of various personal, job-related, and company-specific factors on attrition. Key findings reveal that factors such as job role, marital status, overtime, age, monthly income, and years at the company significantly correlate with attrition rates. These insights can help organizations develop targeted strategies to improve employee retention and reduce turnover costs.
+This project delves into the analysis of employee attrition using a comprehensive HR dataset. The primary objective is to identify key factors influencing employee attrition and provide actionable insights to mitigate it. The analysis includes statistical evaluations and data visualizations to understand the impact of various personal, job-related, and company-specific factors on attrition. Key findings reveal that factors such as job role, marital status, overtime, age, monthly income, and years at the company significantly correlate with attrition rates. These insights can help organizations develop targeted strategies to improve employee retention and reduce turnover costs.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📖 Table of Contents
+**📖 Table of Contents**
 ----------------------
 
 1) Project Objectives
@@ -17,13 +17,13 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **1. Project Objectives**
 -----------------------
-**** Identify key factors influencing employee attrition.
+* Identify key factors influencing employee attrition.
  
-**** Analyze the correlation between various attributes (e.g., age, job role, income) and attrition rates.
+* Analyze the correlation between various attributes (e.g., age, job role, income) and attrition rates.
  
-**** Provide actionable insights to reduce employee turnover.
+* Provide actionable insights to reduce employee turnover.
  
-**** Develop data visualizations for clear and effective communication of findings.
+* Develop data visualizations for clear and effective communication of findings.
  
 
 **2. Dataset Overview**
