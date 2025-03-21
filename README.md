@@ -9,9 +9,17 @@ This project delves into the analysis of employee attrition using a comprehensiv
 **📖 Table of Contents**
 ----------------------
 
-1) Project Objectives
-2) Dataset Overview
-3) Project Timeline & Milestones
+ *  Project Objectives
+ *  Dataset Overview
+ *  Technologies & Tools
+ *  Project Timeline & Milestones
+ *  Methodology
+ *  Key Performance Indicators (KPIs)
+ *  Project Timeline & Milestones
+ *  Deliverables
+ *  Roles & Responsibilities
+ *  Future Enhancements
+ *  Contact Information
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -28,12 +36,27 @@ This project delves into the analysis of employee attrition using a comprehensiv
 
 **2. Dataset Overview**
 ----------------------
-**** Source: The dataset used for this analysis is sourced from a human resources database.
+* Source: From Kaggle (https://www.kaggle.com/datasets/soylevbeytullah/ds4work-human-resources)
 
-**** Description:The dataset contains 1470 rows and 35 columns, including various employee attributes such as age, attrition status, department, job role, salary, and years at the company.
+* Description:The dataset contains 1470 rows and 35 columns, including various employee attributes such as age, attrition status, department, job role, salary, and years at the company.
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**## 📅 Project Timeline & Milestones**
+🛠 **3.Technologies & Tools**
+
+|Functionality     |Tools      |
+|------------------|-----------|
+|Database          | mySql     |
+|------------------|-----------|
+|Data Processing   | Python    |
+|------------------|-----------|
+|Data Visualization|Power Bi   |
+|------------------|-----------|
+|Version Control   |Git, GitHub|
+|------------------|-----------|
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**## 📅 4.Project Timeline & Milestones**
 
 | Phase        | Key Activities | Duration |
 |-------------|----------------|----------|
