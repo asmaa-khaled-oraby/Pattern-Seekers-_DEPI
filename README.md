@@ -54,17 +54,17 @@ This project delves into the analysis of employee attrition using a comprehensiv
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🔬 Methodology**
 
-****1. Data Handling ****
+1. Data Handling 
 
 * Collected and cleaned "Human_Resources(1).csv" and "Human_Resources(2).csv".
 * Ensured data consistency (e.g., in `Attrition`, `Department`).
 
-**2. Attrition Analysis **
+2. Attrition Analysis 
 
 * Visualized factors related to employee attrition (e.g., age, job role).
 * Created Power BI dashboards.
 
-****3. Attrition Prediction ****
+3. Attrition Prediction 
 
 * Built models to predict which employees might leave.
 * Suggested ways to improve employee retention.
@@ -102,11 +102,12 @@ This project delves into the analysis of employee attrition using a comprehensiv
 
 **👥 Roles & Responsibilities**
 
-|Team Member |Role |Responsibilities |
-|Doha Ehab   |Team Leader & Documentation Lead |Presentation , Lead Execution|
-|Asmaa Khaled | Data Engineer & Reporting  | Data Collection, Cleaning,Report|
-|Saif Waleed  | Data Visualization Specialist | Data Visualization (Power BI )|
-|Mohamed Abdelhadi | Database Manager | Table Creation ,Normalization |
+|Team Member       |Role                             |Responsibilities                 |
+|------------------|---------------------------------|---------------------------------|
+|Doha Ehab         |Team Leader & Documentation Lead |Presentation , Lead Execution    |
+|Asmaa Khaled      | Data Engineer & Reporting       | Data Collection, Cleaning,Report|
+|Saif Waleed       | Data Visualization Specialist   | Data Visualization (Power BI )  |
+|Mohamed Abdelhadi | Database Manager                | Table Creation ,Normalization   |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🔮 Future Enhancements**
