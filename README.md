@@ -1,4 +1,5 @@
 **📊 Project Title: Employee Attrition Analysis**
+----------------------------------------------------
 
 **🔍 Executive Summary**
 -----------------------
