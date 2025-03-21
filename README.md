@@ -46,13 +46,9 @@ This project delves into the analysis of employee attrition using a comprehensiv
 |Functionality     |Tools      |
 |------------------|-----------|
 |Database          | mySql     |
-|------------------|-----------|
 |Data Processing   | Python    |
-|------------------|-----------|
 |Data Visualization|Power Bi   |
-|------------------|-----------|
 |Version Control   |Git, GitHub|
-|------------------|-----------|
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
