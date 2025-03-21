@@ -6,7 +6,7 @@
 This project delves into the analysis of employee attrition using a comprehensive HR dataset. The primary objective is to identify key factors influencing employee attrition and provide actionable insights to mitigate it. The analysis includes statistical evaluations and data visualizations to understand the impact of various personal, job-related, and company-specific factors on attrition. Key findings reveal that factors such as job role, marital status, overtime, age, monthly income, and years at the company significantly correlate with attrition rates. These insights can help organizations develop targeted strategies to improve employee retention and reduce turnover costs.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**📖 Table of Contents**
+📖 Table of Contents
 ----------------------
 
  *  Project Objectives
