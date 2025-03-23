@@ -84,7 +84,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
 * How much HR and management use the project's findings.
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**## 📅 Project Timeline & Milestones**
+** 📅 Project Timeline & Milestones**
 ---------------------------------------
 
 | Phase        | Key Activities | Duration |
