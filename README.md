@@ -114,7 +114,7 @@ This project delves into the analysis of employee attrition using a comprehensiv
 |Doha Ehab         | Documentation Lead & Report     |Presentation ,Report                    |
 |Asmaa Khaled      | Data Engineer & ML Specialist   | Data Collection, Cleaning,ML Training  |
 |Saif Waleed       | Data Visualization Specialist   | Data Visualization (Power BI )         |
-|Mohamed Abdelhadi | Database Manager & Report       | Table Creation ,Normalization          |
+|Mohamed Abdelhadi | Database Manager                | Table Creation ,Normalization          |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🔮 Future Enhancements**
