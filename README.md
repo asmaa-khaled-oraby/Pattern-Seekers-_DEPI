@@ -109,12 +109,12 @@ This project delves into the analysis of employee attrition using a comprehensiv
 **👥 Roles & Responsibilities**
 ---------------------------------
 
-|Team Member       |Role                             |Responsibilities                 |
-|------------------|---------------------------------|---------------------------------|
-|Doha Ehab         |Team Leader & Documentation Lead |Presentation , Lead Execution    |
-|Asmaa Khaled      | Data Engineer & Reporting       | Data Collection, Cleaning,Report|
-|Saif Waleed       | Data Visualization Specialist   | Data Visualization (Power BI )  |
-|Mohamed Abdelhadi | Database Manager                | Table Creation ,Normalization   |
+|Team Member       |Role                             |Responsibilities                        |
+|------------------|---------------------------------|----------------------------------------|
+|Doha Ehab         | Documentation Lead & Report     |Presentation ,Report                    |
+|Asmaa Khaled      | Data Engineer & ML Specialist   | Data Collection, Cleaning,ML Training  |
+|Saif Waleed       | Data Visualization Specialist   | Data Visualization (Power BI )         |
+|Mohamed Abdelhadi | Database Manager & Report       | Table Creation ,Normalization          |
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🔮 Future Enhancements**
