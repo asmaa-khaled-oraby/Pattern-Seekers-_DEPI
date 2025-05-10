@@ -51,10 +51,6 @@ print(f"Accuracy: {accuracy_score(y_test, y_pred):.4f}")
 
 
 
-
-
-
-
 # 10. Feature Importance
 plt.figure(figsize=(10,8))
 plot_importance(xgb_model, max_num_features=10, height=0.5)
@@ -62,8 +58,6 @@ plt.title("Top 10 Important Features")
 plt.show()
 
 print("✅ Model ready for predicting employee attrition!")
-
-
 
 
 # Save model
@@ -118,61 +112,6 @@ pickle.dump(scaler, open('scaler.pkl', 'wb')
 
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
