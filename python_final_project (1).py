@@ -1,62 +1,32 @@
 
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.preprocessing import LabelEncoder
 
-
-
-
-
 df = pd.read_csv('Human_Resources.csv')
 df.head(5)
-
-
-
 
 
 df.info()
 
 
-
-
-
 df.describe()
-
-
-
 
 
 df.nunique()
 
-
-
-
-
 df.isnull().sum()
-
-
-
 
 
 df.duplicated().sum()
 
 
-
-
-
 df_cleaned = df.drop(columns=["EmployeeCount", "StandardHours", "Over18"], errors='ignore')
-
-
-
 
 
 categorical_cols = df_cleaned.select_dtypes(include=['object']).columns
 label_encoders = {}
-
-
-
 
 
 # Encode categorical variables and display mapping
@@ -68,16 +38,12 @@ for col in categorical_cols:
     print(f"Encoding for '{col}': {label_encoders[col]}\n")
 
 
-
-
 # Step 4: Detect and Remove Outliers Using IQR Method
 columns_to_clean = [
     "MonthlyIncome", "NumCompaniesWorked", "TotalWorkingYears",
     "TrainingTimesLastYear", "YearsAtCompany", "YearsInCurrentRole",
     "YearsSinceLastPromotion", "YearsWithCurrManager"
 ]
-
-
 
 
 
@@ -91,17 +57,11 @@ def detect_outliers(column):
     return outliers
 
 
-
-
-
 print("\n🔹 Outliers Detected:")
 for col in columns_to_clean:
     outliers = detect_outliers(df_cleaned[col])
     if not outliers.empty:
         print(f"{col}: {len(outliers)} outliers | Sample: {outliers.head(5).tolist()}")
-
-
-
 
 
 def remove_outliers(df, columns):
@@ -115,11 +75,6 @@ def remove_outliers(df, columns):
     return df
 
 df_cleaned = remove_outliers(df_cleaned, columns_to_clean)
-
-
-
-
-
 
 
 
@@ -144,10 +99,6 @@ plt.legend(labels=[f"{label} ({count})" for label, count in zip(gender_attrition
 plt.axis('equal')
 plt.tight_layout()
 plt.show()
-
-
-
-
 
 
 
